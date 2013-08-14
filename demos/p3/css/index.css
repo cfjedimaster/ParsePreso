@@ -1,0 +1,16 @@
+body {
+	padding-left:10px;
+	padding-right:10px;
+	font-family: Arial;
+}
+
+textarea {
+	width:90%;
+	height:70px;
+}
+
+button {
+	width:90%;
+	height:50px;
+	font-size: 1.8em;
+}
